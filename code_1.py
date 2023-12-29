@@ -14,4 +14,7 @@ b = 12
 b -= 2
 def fun_1():
     print('no answer')
+if a == 2:
+    a += 1222222222222
+woudwrolfnlnfv= 1
     
