@@ -10,4 +10,8 @@ a = int(input())
 while a != 1:
     sum_ = sum_ * a
     a -= 1
+b = 12
+b -= 2
+def fun_1():
+    print('no answer')
     
